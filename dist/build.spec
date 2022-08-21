@@ -80,6 +80,7 @@ Recommends:     zstd
 Recommends:     perl(Config::IniFiles)
 Recommends:     perl(Date::Language)
 Recommends:     perl(Date::Parse)
+Recommends:     perl(JSON)
 Recommends:     perl(LWP::UserAgent)
 Recommends:     perl(Pod::Usage)
 Recommends:     perl(Time::Zone)
